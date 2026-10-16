@@ -26,3 +26,4 @@ jobs:
         with:
           name: amethyst-tracker-jar
           path: build/libs/*.jar
+ 
